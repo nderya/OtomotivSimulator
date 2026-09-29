@@ -23,17 +23,3 @@ OtomotivSimulator/
 ├── c_simulator/       # C-based vehicle simulation source code
 ├── java_dashboard/    # Java Swing GUI and log reader source code
 └── .gitignore         # Filter list ignoring unnecessary build and system files
-
-```
-
-## ⚙️️ Setup and Running
-
-1. Clone the repository to your local machine:
-```bash
-git clone https://github.com/nderya/OtomotivSimulator.git
-
-```
-
-
-2. **Start the C Simulator:** Compile and run the `c_simulator` code via Visual Studio to start generating logs.
-3. **Start the Java Dashboard:** Open the `java_dashboard` project in IntelliJ IDEA, run the application, and watch the real-time data reflect on the interface.
